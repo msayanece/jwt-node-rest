@@ -1,0 +1,16 @@
+{
+  "name": "jwt-node-rest",
+  "version": "1.0.0",
+  "description": "this is a demonstration of using jwt authentication in node rest api using mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sayan Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "nodemon": "^2.0.7"
+  }
+}
